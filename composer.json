@@ -1,0 +1,19 @@
+{
+    "name": "gdelacc/livereload-php",
+    "description": "Easy way to include Livereload JS in your PHP project",
+    "type": "library",
+    "license": "GNU",
+    "version" : "1.0",
+    "authors": [
+        {
+            "name": "Gonzalo",
+            "email": "gdelacruz92@yahoo.es"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "LivereloadPHP": "src/"
+        }
+    }
+}
