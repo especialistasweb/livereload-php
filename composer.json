@@ -2,11 +2,11 @@
     "name": "gdelacc/livereload-php",
     "description": "Easy way to include Livereload JS in your PHP project",
     "type": "library",
-    "license": "GNU",
+    "license": "GPL-3.0-or-later",
     "version" : "1.0",
     "authors": [
         {
-            "name": "Gonzalo",
+            "name": "Gonzalo de la Cruz @gdelacc",
             "email": "gdelacruz92@yahoo.es"
         }
     ],
